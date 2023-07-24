@@ -1,2 +1,2 @@
 my first readme in 0x01-git
-this is my README.md update from GitHub.com 
+this is my README.md update From GitHub.com 
